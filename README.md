@@ -1,1 +1,1 @@
-# simpel-zerodha-app
+# simple-zerodha-app
